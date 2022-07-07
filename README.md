@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on: teaching university CS courses: Introduction to Algorithms and Data Structures (Python, Julia),
+- 🔭 I’m currently working on: teaching university CS courses | [Introduction to Algorithms and Data Structures (Python, Julia),
                                                                 Computer Organization and Architecture (LC-3, Assembly, Machine Language), 
-                                                                C++ Programming (C++, of course)
+                                                                C++ Programming (C++, of course)]
 - 🌱 I’m currently learning: Julia, NLP common practices
 - 👯 I’m looking to collaborate on: Computational Cognitive Narratology Research (Or anything NLP!)
 - 🤔 I’m looking for help with: TBA
