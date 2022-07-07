@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 
 - I'm a Dual Ph.D. student and Associate Instructor at Indiana University. I currently work as an Adjunct Faculty Instructor at Utah Valley University where I teach undergraduate computer science courses in their CS Department.
 
-- Education: Dual Ph.D. (student) Informatics, Complex Networks and Systems | Cognitive Science - Indiana University
+- Education: 
+Dual Ph.D. (student) Informatics, Complex Networks and Systems | Cognitive Science - Indiana University
 - B.S. Computer Science - Utah Valley University
 
 - 🔭 I’m currently working on: teaching university CS courses | [Introduction to Algorithms and Data Structures (Python, Julia),
