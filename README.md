@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 
 -->
 
-- I'm a Dual Ph.D. student and Associate Instructor at Indiana University. I currently work as an Adjunct Faculty Instructor at Utah Valley University where I teach undergraduate computer science courses in their CS Department.
+- 💡 I'm a Dual Ph.D. student and Associate Instructor at Indiana University. I currently work as an Adjunct Faculty Instructor at Utah Valley University where I teach undergraduate computer science courses in their CS Department.
 
-- Education: 
+- 🎓 Education: 
   - Dual Ph.D. (student) Informatics, Complex Networks and Systems | Cognitive Science - Indiana University
   - B.S. Computer Science - Utah Valley University
 
@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love playing/performing music!
 
-![Devin's GitHub stats](https://github-readme-stats-devinw-sudo.vercel.app/api?username=DevinW-sudo&count_private=true)
-
 ![Top Languages](https://github-readme-stats-devinw-sudo.vercel.app/api/top-langs/?username=DevinW-sudo&hide=HTML,CSS,Javascript&langs_count=10&layout=compact)
+
+![Devin's GitHub stats](https://github-readme-stats-devinw-sudo.vercel.app/api?username=DevinW-sudo&count_private=true)
