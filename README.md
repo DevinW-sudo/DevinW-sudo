@@ -3,8 +3,6 @@
 
 ![Top Languages](https://github-readme-stats-devinw-sudo.vercel.app/api/top-langs/?username=DevinW-sudo&hide=HTML,CSS,Javascript&langs_count=10&layout=compact&theme=tokyonight)
 
-[![wDevin's wakatime stats](https://github-readme-stats-devinw-sudo.vercel.app/api/wakatime?username=DevinW-sudo)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Hi there 👋
 
 <!--
