@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 
+-->
+
 - 🔭 I’m currently working on - teaching university CS courses: Introduction to Algorithms and Data Structures (Python, Julia),
                                                                 Computer Organization and Architecture (LC-3, Assembly, Machine Language), 
                                                                 C++ Programming (C++, of course)
@@ -15,7 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Check the Twitter handle or my website - https://devwright.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love playing/performing music!
--->
 
 ![Devin's GitHub stats](https://github-readme-stats-devinw-sudo.vercel.app/api?username=DevinW-sudo&count_private=true)
 
