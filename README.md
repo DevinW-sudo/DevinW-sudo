@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love playing/performing music!
 -->
 
-[![Devin's GitHub stats](github-readme-stats-devinw-sudo.vercel.app/api?username=DevinW-sudo)](https://github.com/DevinW-sudo/github-readme-stats)
+[![Devin's GitHub stats](https://github-readme-stats-lilac-delta.vercel.app/api?username=DevinW-sudo)](https://github.com/DevinW-sudo/github-readme-stats)
 
-[![Top Langs](github-readme-stats-devinw-sudo.vercel.app/api/top-langs/?username=DevinW-sudo&layout=compact)](https://github.com/DevinW-sudo/github-readme-stats)
+[![Top Langs](https://github-readme-stats-lilac-delta.vercel.app/api/top-langs/?username=DevinW-sudo&layout=compact)](https://github.com/DevinW-sudo/github-readme-stats)
