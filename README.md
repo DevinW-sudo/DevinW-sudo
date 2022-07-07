@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Devin's GitHub stats](https://github-readme-stats-lilac-delta.vercel.app/api?username=DevinW-sudo&count_private=true)
 
-[![Top Languages](https://github-readme-stats-lilac-delta.vercel.app/api/top-langs/?username=DevinW-sudo&count_private=true)](https://github.com/DevinW-sudo/github-readme-stats)
+[![Top Languages](https://github-readme-stats-lilac-delta.vercel.app/api/top-langs/?username=DevinW-sudo)](https://github.com/DevinW-sudo/github-readme-stats)
