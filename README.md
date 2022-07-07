@@ -1,5 +1,5 @@
 
-![Devin's GitHub stats](https://github-readme-stats-devinw-sudo.vercel.app/api?username=DevinW-sudo&count_private=true&theme=radical)
+![Devin's GitHub stats](https://github-readme-stats-devinw-sudo.vercel.app/api?username=DevinW-sudo&count_private=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats-devinw-sudo.vercel.app/api/top-langs/?username=DevinW-sudo&hide=HTML,CSS,Javascript&langs_count=10&layout=compact&theme=radical)
 
