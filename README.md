@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 - Education: 
   - Dual Ph.D. (student) Informatics, Complex Networks and Systems | Cognitive Science - Indiana University
-- B.S. Computer Science - Utah Valley University
+  - B.S. Computer Science - Utah Valley University
 
 - 🔭 I’m currently working on: teaching university CS courses | [Introduction to Algorithms and Data Structures (Python, Julia),
                                                                 Computer Organization and Architecture (LC-3, Assembly, Machine Language), 
