@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Devin's GitHub stats](https://github-readme-stats-devinw-sudo.vercel.app/api?username=DevinW-sudo&count_private=true)
 
-![Top Languages](https://github-readme-stats-devinw-sudo.vercel.app/api/top-langs/?username=DevinW-sudo&exclude_repo=ObsidianVaults,homepage&hide=HTML)
+![Top Languages](https://github-readme-stats-devinw-sudo.vercel.app/api/top-langs/?username=DevinW-sudo&hide=HTML,CSS)
