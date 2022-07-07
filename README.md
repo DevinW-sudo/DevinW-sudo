@@ -1,3 +1,8 @@
+
+![Devin's GitHub stats](https://github-readme-stats-devinw-sudo.vercel.app/api?username=DevinW-sudo&count_private=true)
+
+![Top Languages](https://github-readme-stats-devinw-sudo.vercel.app/api/top-langs/?username=DevinW-sudo&hide=HTML,CSS,Javascript&langs_count=10&layout=compact)
+
 ### Hi there 👋
 
 <!--
@@ -23,7 +28,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Check the Twitter handle or my website - https://devwright.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love playing/performing music!
-
-![Top Languages](https://github-readme-stats-devinw-sudo.vercel.app/api/top-langs/?username=DevinW-sudo&hide=HTML,CSS,Javascript&langs_count=10&layout=compact)
-
-![Devin's GitHub stats](https://github-readme-stats-devinw-sudo.vercel.app/api?username=DevinW-sudo&count_private=true)
