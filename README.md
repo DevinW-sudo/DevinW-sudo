@@ -28,10 +28,10 @@ Here are some ideas to get you started:
     - What semantics survive between generations of retold stories?
     - What role does emotion play in processing and reproducing a story/narrative?
   - novelty in fanfiction online.
-- 👨‍🏫 I'm currently an Associate Instructor for
+- 👨‍🏫 I'm currently an Associate Instructor for:
     - INFO-I590 Data Visualization
     - INFO-I422 Data Visualization
-- 👨‍🏫 I've previously taught the folowing Computer Science courses (Instructor of Record)
+- 👨‍🏫 I previously taught the folowing Computer Science courses (Instructor of Record):
     - CS2420 Introduction to Algorithms and Data Structures (Python, Julia)
     - CS2810 Computer Organization and Architecture (LC-3, Assembly, Machine Language)
     - CS2370 C++ Programming (C++, of course)
