@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   - [Experimental Humanities Lab](https://www.experimentalhumanities.com/people)
 
 - 🔭 I'm currently conducting research on:
-  - various information dynamics between serial reproduction of stories
+  - various information dynamics between the serial reproduction of stories
     - How does information change or travel between generations?
     - What semantics survive between generations of retold stories?
     - What role does emotion play in processing and reproducing a story/narrative?
