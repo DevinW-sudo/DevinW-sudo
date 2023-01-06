@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - 👨‍🏫 I'm currently an Associate Instructor for:
     - INFO-I590 Data Visualization
     - INFO-I422 Data Visualization
+    - INFO-I123 Data Fluency
 - 👨‍🏫 I previously taught the folowing Computer Science courses (Instructor of Record):
     - CS2420 Introduction to Algorithms and Data Structures (Python, Julia)
     - CS2810 Computer Organization and Architecture (LC-3, Assembly, Machine Language)
