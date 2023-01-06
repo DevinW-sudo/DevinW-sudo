@@ -1,7 +1,7 @@
 
 ![Devin's GitHub stats](https://github-readme-stats-devinw-sudo.vercel.app/api?username=DevinW-sudo&count_private=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-devinw-sudo.vercel.app/api/top-langs/?username=DevinW-sudo&hide=HTML,CSS,Javascript&langs_count=10&layout=compact&theme=tokyonight&exclude_repo=beliefnet,cs4490antlr,recursive_descent,SCDTool,github-readme-stats&count_private=true)
+![Top Languages](https://github-readme-stats-devinw-sudo.vercel.app/api/top-langs/?username=DevinW-sudo&count_private=true&hide=HTML,CSS,Javascript&langs_count=10&layout=compact&theme=tokyonight&exclude_repo=beliefnet,cs4490antlr,recursive_descent,SCDTool,github-readme-stats,ao3,ao3_old,dviz-course,dviz-solutions)
 
 ### Hi there 👋
 
