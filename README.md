@@ -24,10 +24,8 @@ Here are some ideas to get you started:
   - [Experimental Humanities Lab](https://www.experimentalhumanities.com/people)
 
 - 🔭 I'm currently conducting research on:
-  - what ChatGPT reveals about human cognition in the serial reproduction of stories
-  - network structure of better remembered stories vs. less remembered stories
-  - various information dynamics between the serial reproduction of stories
-  - novelty in fanfiction online.
+  - Check my research page! [Research](https://devwright.com/2.%20Research/)
+  - Or my Publications page! [Publications](https://devwright.com/1.%20Publications/)
 - 👨‍🏫 I'm currently an Associate Instructor for:
     - INFO-I590 Data Visualization (Python, Jupyter)
     - INFO-I422 Data Visualization (Python, Jupyter)
@@ -36,7 +34,7 @@ Here are some ideas to get you started:
     - CS2420 Introduction to Algorithms and Data Structures (Python, Julia)
     - CS2810 Computer Organization and Architecture (LC-3, Assembly, Machine Language)
     - CS2370 C++ Programming (C++, of course)
-- 🌱 I’m currently learning: embedding methods, information theory, LLMs, transformer architecture
+- 🌱 I’m currently learning: embedding methods, information theory, LLMs, transformer architecture, etc.
 - 👯 I’m looking to collaborate on: Computational Cognitive Narratology Research (Or anything NLP!)
 - 🤔 I’m looking for help with: TBA
 - 💬 Ask me about: digital humanities (I'm new, but possibly helpful!)
