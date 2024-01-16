@@ -36,6 +36,7 @@ Here are some ideas to get you started:
     - CS2370 C++ Programming (C++, of course)
 - 🌱 I’m currently learning: embedding methods, information theory, LLMs, transformer architecture, etc.
 - 👯 I’m looking to collaborate on: Computational Cognitive Narratology Research (Or anything NLP!)
+    - Bonus points for cultural evolution or cognitive science of religion.
 - 🤔 I’m looking for help with: TBA
 - 💬 Ask me about: digital humanities (I'm new, but possibly helpful!)
 - 📫 How to reach me: Check the Twitter handle or my website - https://devwright.com
