@@ -1,7 +1,8 @@
-
+<!--
 ![Devin's GitHub stats](https://github-readme-stats-devinw-sudo.vercel.app/api?username=DevinW-sudo&count_private=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats-devinw-sudo.vercel.app/api/top-langs/?username=DevinW-sudo&count_private=true&hide=HTML,CSS,Javascript&langs_count=10&layout=compact&theme=tokyonight&exclude_repo=beliefnet,cs4490antlr,recursive_descent,SCDTool,github-readme-stats,ao3,ao3_old,dviz-course,dviz-solutions)
+-->
 
 ### Hi there 👋
 
@@ -12,10 +13,10 @@ Here are some ideas to get you started:
 
 -->
 
-- 💡 I'm a Dual Ph.D. student and Associate Instructor at Indiana University. I previously worked as an Adjunct Faculty Instructor at Utah Valley University where I taught undergraduate computer science courses in their CS Department. I've also previously worked AI/ML/NLP related internships with NASA and conducted/published research with the UVU Source Code Lab.
+- 💡 I'm a Joint Ph.D. student and Associate Instructor at Indiana University. I previously worked as an Adjunct Faculty Instructor at Utah Valley University where I taught undergraduate computer science courses in their CS Department. I've also previously worked AI/ML/NLP related internships with NASA and conducted/published research with the UVU Source Code Lab.
 
 - 🎓 Education: 
-  - Dual Ph.D. (student) Informatics & Cognitive Science - Indiana University
+  - Joint Ph.D. (student) Informatics & Cognitive Science - Indiana University
   - B.S. Computer Science - Utah Valley University
 
 - 🧑‍🔬 Research Labs:
