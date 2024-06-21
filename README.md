@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     - CS2810 Computer Organization and Architecture (LC-3, Assembly, Machine Language)
     - CS2370 C++ Programming (C++, of course)
 - 🌱 I’m currently learning: embedding methods, information theory, LLMs, transformer architecture, etc.
-- 👯 I’m looking to collaborate on: Computational Cognitive Narratology Research (Or anything NLP!)
+- 👯 I’m looking to collaborate on: Research broadly within the cultural evolution, computational social science, and the cognitive science of religion. I use methods from data science, NLP/NLU/Corpus Linguistics, complex networks and systems science, and a little computational modeling. 
     - Bonus points for cultural evolution or cognitive science of religion.
 - 🤔 I’m looking for help with: TBA
 - 💬 Ask me about: digital humanities (I'm new, but possibly helpful!)
