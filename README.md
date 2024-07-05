@@ -28,18 +28,20 @@ Here are some ideas to get you started:
   - Check my research page! [Research](https://devwright.com/2.%20Research/)
   - Or my Publications page! [Publications](https://devwright.com/1.%20Publications/)
 - 👨‍🏫 I'm currently an Associate Instructor for:
+    - DSCI-D590 Data Visualization (Python, Jupyter)
     - INFO-I590 Data Visualization (Python, Jupyter)
     - INFO-I422 Data Visualization (Python, Jupyter)
     - INFO-I123 Data Fluency
+    - INFO-I222 The Information Society
 - 👨‍🏫 I previously taught the folowing Computer Science courses (Instructor of Record):
     - CS2420 Introduction to Algorithms and Data Structures (Python, Julia)
     - CS2810 Computer Organization and Architecture (LC-3, Assembly, Machine Language)
     - CS2370 C++ Programming (C++, of course)
 - 🌱 I’m currently learning: embedding methods, information theory, LLMs, transformer architecture, etc.
-- 👯 I’m looking to collaborate on: Research broadly within the cultural evolution, computational social science, and the cognitive science of religion. I use methods from data science, NLP/NLU/Corpus Linguistics, complex networks and systems science, and a little computational modeling. 
-    - Bonus points for cultural evolution or cognitive science of religion.
-- 🤔 I’m looking for help with: TBA
-- 💬 Ask me about: digital humanities (I'm new, but possibly helpful!)
+<!-- - 👯 I’m looking to collaborate on: Research broadly within the cultural evolution, computational social science, and the cognitive science of culture. I use methods from data science, NLP/NLU/Corpus Linguistics, complex networks and systems science, and a little computational modeling. 
+    - Bonus points for cultural evolution or cognitive science of culture or religion. -->
+<!-- - 🤔 I’m looking for help with: TBA -->
+<!-- - 💬 Ask me about: digital humanities (I'm new, but possibly helpful!) -->
 - 📫 How to reach me: Check the Twitter handle or my website - https://devwright.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love playing/performing music!
