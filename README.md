@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 💡 I'm a Joint Ph.D. student and Associate Instructor at Indiana University. I previously worked as an Adjunct Faculty Instructor at Utah Valley University where I taught undergraduate computer science courses in their CS Department. I've also previously worked AI/ML/NLP related internships with NASA and conducted/published research with the UVU Source Code Lab.
+- 💡 I'm a Joint Ph.D. student and Associate Instructor at Indiana University. I previously worked as an Adjunct Faculty Instructor at Utah Valley University where I taught undergraduate computer science courses in their CS Department. I've also previously worked AI/ML/NLP related internships with NASA and conducted/published research with the Experimental Humanities Lab, YY Group, and the UVU Source Code Lab.
 
 - 🎓 Education: 
   - Joint Ph.D. (student) Informatics & Cognitive Science - Indiana University
