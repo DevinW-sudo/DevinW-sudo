@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 💡 I'm a Joint Ph.D. student and Associate Instructor at Indiana University. I previously worked as an Adjunct Faculty Instructor at Utah Valley University where I taught undergraduate computer science courses in their CS Department. I've also previously worked AI/ML/NLP related internships with NASA and conducted/published research with the Experimental Humanities Lab, YY Group, and the UVU Source Code Lab.
+- 💡 I'm a Joint Ph.D. student and Research Assistant at Indiana University. I previously worked as an Adjunct Faculty Instructor at Utah Valley University where I taught undergraduate computer science courses in their CS Department. I've also previously worked AI/ML/NLP related internships with NASA and conducted/published research with the Experimental Humanities Lab, YY Group, and the UVU Source Code Lab.
 
 - 🎓 Education: 
   - Joint Ph.D. (student) Informatics & Cognitive Science - Indiana University
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🔭 I'm currently conducting research on:
   - Check my research page! [Research](https://devwright.com/2.%20Research/)
   - Or my Publications page! [Publications](https://devwright.com/1.%20Publications/)
-- 👨‍🏫 I'm currently an Associate Instructor for:
+- 👨‍🏫 I've worked as an Associate Instructor for:
     - DSCI-D590 Data Visualization (Python, Jupyter)
     - INFO-I590 Data Visualization (Python, Jupyter)
     - INFO-I422 Data Visualization (Python, Jupyter)
