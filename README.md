@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 - 🧑‍🔬 Research Labs:
   - [CNetS](https://cnets.indiana.edu/)
+    - [Soda Lab](https://soda-labo.github.io/)
     - [YY Group](https://yongyeol.com/group/)
   - [Experimental Humanities Lab](https://www.experimentalhumanities.com/people)
 
