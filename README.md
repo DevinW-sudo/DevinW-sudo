@@ -28,9 +28,9 @@ Here are some ideas to get you started:
   - Check my research page! [Research](https://devwright.com/2.%20Research/)
   - Or my Publications page! [Publications](https://devwright.com/1.%20Publications/)
 - 👨‍🏫 I've worked as an Associate Instructor for:
-    - DSCI-D590 Data Visualization (Python, Jupyter)
-    - INFO-I590 Data Visualization (Python, Jupyter)
-    - INFO-I422 Data Visualization (Python, Jupyter)
+    - DSCI-D590 Data Visualization (Python, Jupyter Notebooks)
+    - INFO-I590 Data Visualization (Python, Jupyter Notebooks)
+    - INFO-I422 Data Visualization (Python, Jupyter Notebooks)
     - INFO-I123 Data Fluency
     - INFO-I222 The Information Society
 - 👨‍🏫 I previously taught the folowing Computer Science courses (Instructor of Record):
