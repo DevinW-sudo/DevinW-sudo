@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     - INFO-I222 The Information Society
 - 👨‍🏫 I previously taught the folowing Computer Science courses (Instructor of Record):
     - CS2420 Introduction to Algorithms and Data Structures (Python, Julia)
-    - CS2810 Computer Organization and Architecture (LC-3, Assembly, Machine Language)
+    - CS2810 Computer Organization and Architecture (LC-3: Assembly, Machine Language)
     - CS2370 C++ Programming (C++, of course)
 - 🌱 I’m currently learning: embedding methods, information theory, LLMs, transformer architecture, etc.
 <!-- - 👯 I’m looking to collaborate on: Research broadly within the cultural evolution, computational social science, and the cognitive science of culture. I use methods from data science, NLP/NLU/Corpus Linguistics, complex networks and systems science, and a little computational modeling. 
