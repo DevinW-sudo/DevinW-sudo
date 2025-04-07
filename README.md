@@ -26,8 +26,8 @@ Here are some ideas to get you started:
   - [Experimental Humanities Lab](https://www.experimentalhumanities.com/people)
 
 - 🔭 I'm currently conducting research on:
-  - Check my research page! [Research](https://devwright.com/Research/)
-  - Or my Publications page! [Publications](https://devwright.com/Publications/)
+  - Check my research page! [Research](https://devwright.com/research/)
+  - Or my Publications page! [Publications](https://devwright.com/publications/)
 - 👨‍🏫 I've worked as an Associate Instructor for:
     - DSCI-D590 Data Visualization (Python, Jupyter Notebooks)
     - INFO-I590 Data Visualization (Python, Jupyter Notebooks)
